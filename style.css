@@ -11,6 +11,7 @@ h1 {
 h3{
     font-size: 30px;
 }
+
 p{
     color: #434343;
 }
@@ -46,8 +47,27 @@ p{
     /* box-shadow: 10px 10px 40px gray; */
 
 }
+.service-section{
+    margin-top: 100px;
+
+}
+.service-item{
+    width: 40%;
+     margin-left: 5%; 
+     margin-right: 5%;
+    padding-left: 20px;  
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    
+    color: cornflowerblue;
+
+} 
+
+.service-item img{
+    width: 60%;
+}
 .mission-item img{
-    width: 50%;
+    width: 60%;
 }
 #mission{
     background-color: rgba(79, 157, 166, 0.1);
